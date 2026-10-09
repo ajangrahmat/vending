@@ -1,0 +1,3 @@
+Pillow
+pyserial>=3.5
+qrcode[pil]

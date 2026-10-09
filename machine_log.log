@@ -1,0 +1,64 @@
+2026-10-07 09:57:54  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 15, Kopi 12, Teh Botol 10, Cokelat 8, Keripik 7, Mie Instan 9
+2026-10-07 09:58:48  transaksi INV-20261007-095848-684a: membuat pembayaran Rp 3.000
+2026-10-07 09:58:49  transaksi INV-20261007-095848-684a: link dibuat https://sumo.sandbox.pymnt.global/payment-links/52abf021-c331-4648-928e-570438741aa8 (berlaku sampai 2026-10-07 10:58:48)
+2026-10-07 09:58:54  transaksi INV-20261007-095848-684a: status PENDING
+2026-10-07 09:59:07  transaksi DIBATALKAN pengguna. QR MASIH HIDUP di https://sumo.sandbox.pymnt.global/payment-links/52abf021-c331-4648-928e-570438741aa8 — periksa manual apakah pembayaran masuk setelah ini.
+2026-10-07 10:10:11  mesin ditutup (jendela ditutup pengguna)
+2026-10-07 10:10:34  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 14, Kopi 12, Teh Botol 10, Cokelat 8, Keripik 7, Mie Instan 9
+2026-10-07 10:10:51  mesin ditutup (jendela ditutup pengguna)
+2026-10-07 10:37:03  kiosk started — mode SIMULATION, stock: Mineral Water 15, Coffee 12, Bottled Tea 10, Chocolate 8, Chips 7, Instant Noodles 9
+2026-10-07 10:37:07  canteen kiosk started (table 07) — mode SIMULATION
+2026-10-07 10:37:29  kiosk started — mode SIMULATION, stock: Mineral Water 15, Coffee 12, Bottled Tea 10, Chocolate 8, Chips 7, Instant Noodles 9
+2026-10-07 10:37:33  canteen kiosk started (table 07) — mode SIMULATION
+2026-10-07 10:38:10  kiosk started — mode SIMULATION, stock: Mineral Water 15, Coffee 12, Bottled Tea 10, Chocolate 8, Chips 7, Instant Noodles 9
+2026-10-07 10:38:14  canteen kiosk started (table 07) — mode SIMULATION
+2026-10-07 10:39:08  kiosk started — mode SIMULATION, stock: Mineral Water 15, Coffee 12, Bottled Tea 10, Chocolate 8, Chips 7, Instant Noodles 9
+2026-10-07 10:39:12  canteen kiosk started (table 07) — mode SIMULATION
+2026-10-08 19:53:57  mesin dijalankan — mode SIMULASI, stok: Air Mineral 15, Kopi 12, Teh Botol 10, Cokelat 8, Keripik 7, Mie Instan 9
+2026-10-08 19:54:25  transaksi selesai: 2 butir dikeluarkan (Rp 6.000)
+2026-10-08 19:54:27  mesin ditutup (jendela ditutup pengguna)
+2026-10-08 20:04:39  mesin dijalankan — mode SIMULASI, stok: Air Mineral 14, Kopi 12, Teh Botol 10, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-08 20:04:50  transaksi selesai: 1 butir dikeluarkan (Rp 4.000)
+2026-10-08 20:04:51  mesin ditutup (jendela ditutup pengguna)
+2026-10-08 20:37:38  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 14, Kopi 12, Teh Botol 9, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-08 20:37:44  transaksi INV-20261008-203744-2f41: membuat pembayaran Rp 3.000
+2026-10-08 20:37:45  transaksi INV-20261008-203744-2f41: link dibuat https://sumo.sandbox.pymnt.global/payment-links/0770d4a2-d3c4-43f0-8cab-6cb8991ec5db (berlaku sampai 2026-10-08 21:37:40)
+2026-10-08 20:37:47  transaksi INV-20261008-203744-2f41: status PENDING
+2026-10-08 20:42:22  transaksi INV-20261008-203744-2f41: LUNAS — produk dikeluarkan
+2026-10-08 20:42:24  transaksi selesai: 1 butir dikeluarkan (Rp 3.000)
+2026-10-08 20:44:29  mesin ditutup (jendela ditutup pengguna)
+2026-10-08 20:44:32  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 13, Kopi 12, Teh Botol 9, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-08 20:45:08  transaksi INV-20261008-204508-d71e: membuat pembayaran Rp 3.000
+2026-10-08 20:45:08  transaksi INV-20261008-204508-d71e: link dibuat https://sumo.sandbox.pymnt.global/payment-links/c50cc1b1-1949-418c-9a66-bfaacd465711 (berlaku sampai 2026-10-08 21:45:04)
+2026-10-08 20:45:10  transaksi INV-20261008-204508-d71e: status PENDING
+2026-10-08 20:45:33  transaksi INV-20261008-204508-d71e: LUNAS — produk dikeluarkan
+2026-10-08 20:45:35  transaksi selesai: 1 butir dikeluarkan (Rp 3.000)
+2026-10-08 20:52:21  mesin ditutup (jendela ditutup pengguna)
+2026-10-08 22:36:22  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 12, Kopi 12, Teh Botol 9, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-08 22:36:37  mesin ditutup (jendela ditutup pengguna)
+2026-10-08 22:51:14  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 12, Kopi 12, Teh Botol 9, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-08 22:51:14  GAGAL menghubungkan dispenser pada COM7: SerialException: could not open port 'COM7': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-10-09 00:18:56  mesin ditutup (jendela ditutup pengguna)
+2026-10-09 02:08:11  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 12, Kopi 12, Teh Botol 9, Cokelat 7, Keripik 7, Mie Instan 9
+2026-10-09 02:08:11  GAGAL menghubungkan dispenser pada COM7: SerialException: could not open port 'COM7': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-10-09 02:08:33  mesin ditutup (jendela ditutup pengguna)
+2026-10-09 09:31:57  mesin dijalankan — mode MODE DEMO (pembayaran simulasi), stok: Air Mineral 12, Kopi 12, Teh Botol 9, Cokelat 5, Keripik 7, Mie Instan 9
+2026-10-09 09:32:47  mode demo selesai: pembayaran disimulasikan untuk 1 butir (Rp 4.000); tidak ada produk fisik dikeluarkan
+2026-10-09 09:33:15  mesin ditutup (jendela ditutup pengguna)
+2026-10-09 09:37:00  mesin dijalankan — mode MODE DEMO (SumoPod sandbox), sandbox, stok: Air Mineral 12, Kopi 12, Teh Botol 8, Cokelat 5, Keripik 7, Mie Instan 9
+2026-10-09 09:37:06  transaksi INV-20261009-093706-ec3b: membuat pembayaran Rp 7.000
+2026-10-09 09:37:07  transaksi INV-20261009-093706-ec3b: link dibuat https://sumo.sandbox.pymnt.global/payment-links/719c9b7b-fa03-4ab3-b2cf-f29d2142e322 (berlaku sampai 2026-10-09 10:37:06)
+2026-10-09 09:37:14  transaksi INV-20261009-093706-ec3b: status PENDING
+2026-10-09 09:37:55  transaksi INV-20261009-093706-ec3b: LUNAS — produk dikeluarkan
+2026-10-09 09:37:57  pembayaran sandbox diterima untuk 2 butir (Rp 7.000); mode demo: tidak ada produk fisik dikeluarkan
+2026-10-09 09:38:20  mesin dijalankan — mode LIVE (SumoPod), sandbox, stok: Air Mineral 12, Kopi 12, Teh Botol 7, Cokelat 4, Keripik 7, Mie Instan 9
+2026-10-09 09:38:20  GAGAL menghubungkan dispenser pada COM7: SerialException: could not open port 'COM7': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-10-09 09:38:34  mesin ditutup (jendela ditutup pengguna)
+2026-10-09 10:08:47  mesin dijalankan — mode MODE DEMO (simulasi lokal), stok: Air Mineral 12, Kopi 12, Teh Botol 6, Cokelat 3, Keripik 7, Mie Instan 9
+2026-10-09 10:08:58  mode demo selesai: pembayaran disimulasikan untuk 1 butir (Rp 4.000); tidak ada produk fisik dikeluarkan
+2026-10-09 10:09:17  mesin dijalankan — mode LIVE (SumoPod), stok: Air Mineral 12, Kopi 12, Teh Botol 5, Cokelat 3, Keripik 7, Mie Instan 9
+2026-10-09 10:09:17  GAGAL menghubungkan dispenser pada COM7: SerialException: could not open port 'COM7': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-10-09 10:09:28  mesin ditutup (jendela ditutup pengguna)
+2026-10-09 10:09:32  mesin dijalankan — mode LIVE (SumoPod), stok: Air Mineral 12, Kopi 12, Teh Botol 5, Cokelat 3, Keripik 7, Mie Instan 9
+2026-10-09 10:09:32  GAGAL menghubungkan dispenser pada COM7: SerialException: could not open port 'COM7': FileNotFoundError(2, 'The system cannot find the file specified.', None, 2)
+2026-10-09 10:10:04  mesin ditutup (jendela ditutup pengguna)
